@@ -60,4 +60,14 @@ A minimal CRUD API for creating, reading, updating and deleting recipe records. 
 - DELETE /recipes/:id
   - Delete recipe
 
+ ## API Documentaion
+ All endpoints are documented and tested using Postman.
+ https://documenter.getpostman.com/view/47538481/2sB3dLUC6V
+
+ 
+ ## Deployment
+ Deployed the API using
+ - Render https://recipes-u85v.onrender.com
+Authors
+ -Prema
 
